@@ -1,0 +1,21 @@
+#container{
+    border: 2px solid;
+}
+
+ /* > P child */
+
+/* #container > p{
+    background-color: hsl(60, 67%, 59%);
+} */
+
+/* ~ generalSibling */
+/* 
+#container ~ p{
+    background-color: hsl(60, 67%, 59%);
+} */
+
+
+/* + = adjacent sibling */
+#container + p{
+    background-color: hsl(60, 67%, 59%);
+}

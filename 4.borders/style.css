@@ -1,0 +1,33 @@
+h1{
+    /* border-style: solid; */
+
+    border-style: dashed;
+    /* border-style: double; */
+    
+    /* border-style: groove; */
+    /* border-style: ridge; */
+    /* border-style: inset; */
+    /* border-style: outset; */
+    /* border-style: none; remove it border */
+     
+    
+    
+    border-width: 2px;
+    border-color: blue;
+    border-radius: 100px;
+}
+
+h1{
+    border: 3px solid hsl(262,100%,56%)
+    border-radius: 20px;
+}
+
+p{
+    border-style: groove;
+    border-bottom: 3px solid rgb(142, 138, 138);
+    border-top: 3px sollid rgb(203, 23, 47);
+    border-left: 3px solid rgb(228, 228, 45);
+    border-right: 3px dotted rgb(45, 224, 45);
+
+    border-radius: 10px;
+}

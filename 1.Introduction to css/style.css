@@ -1,0 +1,42 @@
+
+/* External CSS */
+/* through id */
+
+
+/* body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+#p1{
+    color: red;
+}
+#p2{
+    color: yellow;
+}
+#p3{
+    color: orange;
+}
+#p4{
+    color: blue;
+} */
+
+
+
+/* through class */
+
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+
+.even{
+    color: red;
+}
+
+.odd{
+    color: greenyellow;
+}
